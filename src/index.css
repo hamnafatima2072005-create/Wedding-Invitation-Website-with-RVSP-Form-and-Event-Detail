@@ -5,7 +5,8 @@
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color-scheme: light dark;
+  /* color-scheme: light dark;  <-- Is line ko maine khatam kar diya hai */
+  color: #1a1a1a;             /* Ye line text ko dark rakhegi */
   background-color: #fdfcf0; /* Wedding theme background */
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -16,11 +17,18 @@
 body, html {
   margin: 0;
   padding: 0;
-  overflow-x: hidden; /* Side scroll khatam karne ke liye */
+  overflow-x: hidden;
   font-family: 'Montserrat', sans-serif;
+  color: #1a1a1a;             /* Body ka color bhi fix kar diya */
+  background-color: #fdfcf0;
 }
 
 #root {
-  max-width: 100%; /* Layout ko full width rakhein */
+  max-width: 100%;
   margin: 0 auto;
+}
+
+/* Headings ko mazeed wazeh karne ke liye */
+h1, h2, h3, h4, .font-great-vibes {
+  color: #1a1a1a !important;
 }
