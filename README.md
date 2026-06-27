@@ -1,16 +1,29 @@
-# React + Vite
+# 💍 Digital Wedding Invitation Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, elegant, and fully responsive web application designed for digital wedding invitations. This project features a tailored layout with event details and an interactive RSVP system to seamlessly manage guest responses.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## React Compiler
+* **Elegant Theme:** Styled with a customized layout and color palette specifically tailored for wedding themes.
+* **Interactive RSVP Form:** Features an organized interface for guests to submit their attendance and event preferences.
+* **Structured Event Timeline:** Beautifully organized sections detailing event schedules and location information.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend Framework:** React.js (built with Vite for fast performance)
+* **Styling & Layout:** Tailwind CSS
+* **Typography:** Google Fonts (Montserrat & Great Vibes)
+
+---
+
+## ⚙️ Installation & Local Setup
+
+Follow these steps to set up and run the project locally on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/hamnafatima2072005-create/Wedding-Invitation-Website-with-RVSP-Form-and-Event-Detail.git](https://github.com/hamnafatima2072005-create/Wedding-Invitation-Website-with-RVSP-Form-and-Event-Detail.git)
